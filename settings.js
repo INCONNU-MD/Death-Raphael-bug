@@ -1,36 +1,36 @@
-//base by Limule Solitarus 
+//base by Inconnu boy tech
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237693538738
+//YouTube: @butterfly familly
+//Instagram: inconnu boy 
+//Telegram: t.me/inconnuboy
+//GitHub: @inconnu-md
+//WhatsApp: +50935662593
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.ownernomer = "50935662593"
+global.ownername = " 🍷 inconnu boy tech "
+global.ytname = "YT: butterfly familly"
+global.socialm = "GitHub: inconnu-md"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber = '50935662593'  //creator number
+global.ownername = '🍷 inconnu boy butterfly' //owner name
+global.botname = '𝗕𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆¹⁶-bug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.author = 'Inconnuboy\n\nContact: +50935662593'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "inconnu boy butterfly Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://whatsapp.com/channel/0029VaoQGMsFCCoOKrjQvW18'
 
 //custom prefix
 global.prefa = ['','!','.','#','&','•']
