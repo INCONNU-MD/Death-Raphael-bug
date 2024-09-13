@@ -1,10 +1,10 @@
-//base by Limule Solitarus 
+//base by Inconnu boy butterfly 
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
+//YouTube: @butterfly familly
+//Instagram: inconnu boy 
+//Telegram: t.me/inconnu boy 
 //GitHub: @Limule3650
-//WhatsApp: +237693538738
+//WhatsApp: +50935662593
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const {
